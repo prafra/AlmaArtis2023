@@ -6,7 +6,7 @@ Thanks to @rinziv for the slides
 | #  | Data | Argomento | Materiale |
 | -- | ---- | --------- | --------- |
 | 1  | 7 marzo 2023  | Introduzione al corso  |  |
-| 2  | 10 marzo 2023  |   |   |
+| 2  | 10 marzo 2023  |   | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/01_intro.pdf) |
 | 3  | 17 marzo 2023  |   |   |
 | 4  | 24 marzo 2023  |   |   |
 | 5  | 31 marzo 2023  |   |   |
