@@ -7,7 +7,7 @@ Thanks to @rinziv for the slides
 | -- | ---- | --------- | --------- |
 | 1  | 7 marzo 2023  | Introduzione al corso  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/01_intro.pdf) |
 | 2  | 10 marzo 2023  |  Tipi di dato, variabili, istruzioni condizionali | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/02_javascript.pdf)  |
-| 3  | 17 marzo 2023  |   |   |
+| 3  | 17 marzo 2023  | Funzioni  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/03_funzioni.pdf)  |
 | 4  | 24 marzo 2023  |   |   |
 | 5  | 31 marzo 2023  |   |   |
 | 6  | 7 aprile 2023  |   |   |
