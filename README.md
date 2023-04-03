@@ -9,7 +9,7 @@ Thanks to @rinziv for the slides
 | 2  | 10 marzo 2023  |  Tipi di dato, variabili, istruzioni condizionali | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/02_javascript.pdf)  |
 | 3  | 17 marzo 2023  | Funzioni  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/03_funzioni.pdf)  |
 | 4  | 24 marzo 2023  | Esercitazione su if e funzioni  |  [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/04_esercizi_funzioni.pdf)   |
-| 5  | 31 marzo 2023  |   |   |
+| 5  | 31 marzo 2023  | Visibilità delle variabili  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/05_javascript_stato.pdf)  |
 | 6  | 7 aprile 2023  |   |   |
 | 7  | 14 aprile 2023  |   |   |
 | 8  | 21 aprile 2023  |   |   |
