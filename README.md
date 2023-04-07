@@ -10,7 +10,7 @@ Thanks to @rinziv for the slides
 | 3  | 17 marzo 2023  | Funzioni  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/03_funzioni.pdf)  |
 | 4  | 24 marzo 2023  | Esercitazione su if e funzioni  |  [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/04_esercizi_funzioni.pdf)   |
 | 5  | 31 marzo 2023  | Visibilità delle variabili  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/05_javascript_stato.pdf)  |
-| 6  | 7 aprile 2023  |   |   |
+| 6  | 7 aprile 2023  |  Switch e for | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/06_javascript_iterazioni_2.pdf)  |
 | 7  | 14 aprile 2023  |   |   |
 | 8  | 21 aprile 2023  |   |   |
 | 9  | 28 aprile 2023  |   |   |
