@@ -14,7 +14,7 @@ Thanks to @rinziv for the slides
 | 7  | 14 aprile 2023  | While e ricorsione  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/07_javascript_while.pdf)  |
 | 8  | 21 aprile 2023  | Esercitazione  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/08_javascript_array.pdf)  |
 | 9  | 28 aprile 2023  |  Array | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/09_javascript_array.pdf)  |
-| 10  | 5 maggio 2023  |   |   |
+| 10  | 5 maggio 2023  | Esercizi | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/10_esercizi.pdf)  |
 | 11  | 12 maggio 2023  |   |   |
 | 12 | 19 maggio 2023  |   |   |
 | 13 | 26 maggio 2023  |   |   |
