@@ -15,7 +15,7 @@ Thanks to @rinziv for the slides
 | 8  | 21 aprile 2023  | Esercitazione  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/08_javascript_array.pdf)  |
 | 9  | 28 aprile 2023  |  Array | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/09_javascript_array.pdf)  |
 | 10  | 5 maggio 2023  | Esercizi | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/10_esercizi.pdf)  |
-| 11  | 12 maggio 2023  |   |   |
+| 11  | 12 maggio 2023  |  Array - Addendum | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/11_javascript_array_addendum.pdf)    |
 | 12 | 19 maggio 2023  |   |   |
 | 13 | 26 maggio 2023  |   |   |
 | 14 | 9 giugno 2023  |   |   |
