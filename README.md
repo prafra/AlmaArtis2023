@@ -18,5 +18,5 @@ Thanks to @rinziv for the slides
 | 11  | 12 maggio 2023  |  Array - Addendum | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/11_javascript_array_addendum.pdf)    |
 | 12 | 19 maggio 2023  |  Processing - Primitive di base, colori | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/12_processing_.pdf)   |
 | 13 | 26 maggio 2023  | Interazione, eventi e variabili  |  [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/13_processing_variabili.pdf)  |
-| 14 | 9 giugno 2023  |   |   |
+| 14 | 9 giugno 2023  |   Valori random, if e loop  |  [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/14_processing.pdf)  |
 | 15 | 16 giugno 2023  |   |   |
