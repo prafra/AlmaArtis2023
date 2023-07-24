@@ -20,3 +20,4 @@ Thanks to @rinziv for the slides
 | 13 | 26 maggio 2023  | Interazione, eventi e variabili  |  [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/13_processing_variabili.pdf)  |
 | 14 | 9 giugno 2023  |   Valori random, if e loop  |  [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/14_if_loop.pdf)  |
 | 15 | 16 giugno 2023  | Oggetti, funzioni avanzate  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/15_processing_avanzate.pdf)  |
+| - | 24 luglio 2023 | Esame | [testo](https://github.com/prafra/AlmaArtis2022/blob/main/slides/Fondamenti di Informatica_esameLuglio.pdf) | 
