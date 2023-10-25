@@ -1,23 +1,24 @@
-# AlmaArtis2022
-Fondamenti di Informatica AA 2022/23
+# AlmaArtis2023
+Fondamenti di Informatica AA 2023/24
 
 Thanks to @rinziv for the slides
 
 | #  | Data | Argomento | Materiale |
 | -- | ---- | --------- | --------- |
-| 1  | 7 marzo 2023  | Introduzione al corso  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/01_intro.pdf) |
-| 2  | 10 marzo 2023  |  Javascript - Tipi di dato, variabili, istruzioni condizionali | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/02_javascript.pdf)  |
-| 3  | 17 marzo 2023  | Funzioni  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/03_funzioni.pdf)  |
-| 4  | 24 marzo 2023  | Esercitazione su if e funzioni  |  [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/04_esercizi_funzioni.pdf)   |
-| 5  | 31 marzo 2023  | Visibilità delle variabili  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/05_javascript_stato.pdf)  |
-| 6  | 7 aprile 2023  |  Switch e for | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/06_javascript_iterazioni_2.pdf)  |
-| 7  | 14 aprile 2023  | While e ricorsione  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/07_javascript_while.pdf)  |
-| 8  | 21 aprile 2023  | Esercitazione  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/08_javascript_esercizi.pdf)  |
-| 9  | 28 aprile 2023  |  Esercitazione | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/09_javascript_esercizi.pdf)  |
-| 10  | 5 maggio 2023  | Array | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/10_javascript_array.pdf)  |
-| 11  | 12 maggio 2023  |  Array - Addendum | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/11_javascript_array_addendum.pdf)    |
-| 12 | 19 maggio 2023  |  Processing - Primitive di base, colori | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/12_processing_.pdf)   |
-| 13 | 26 maggio 2023  | Interazione, eventi e variabili  |  [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/13_processing_variabili.pdf)  |
-| 14 | 9 giugno 2023  |   Valori random, if e loop  |  [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/14_if_loop.pdf)  |
-| 15 | 16 giugno 2023  | Oggetti, funzioni avanzate  | [slides](https://github.com/prafra/AlmaArtis2022/blob/main/slides/15_processing_avanzate.pdf)  |
-| - | 24 luglio 2023 | Esame | [testo](https://github.com/prafra/AlmaArtis2022/blob/main/slides/Fondamenti%20di%20Informatica_esameLuglio.pdf) | 
+| 1  | 25 ottobre 2023  | Introduzione al corso  | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/01_intro.pdf) |
+| 2  | 8 novembre 2023  |   |  |
+| 3  | 9 novembre 2023  |   |   |
+| 4  | 15 novembre 2023  |  |   |
+| 5  | 22 novembre 2023  |  |   |
+| 6  | 29 novembre 2023  |  |   |
+| 7  | 6 dicembre 2023  |   |   |
+| 8  | 13 dicembre 2023  |   |  |
+| 9  | 20 dicembre 2023  |   |  |
+| 10  | 10 gennaio 2024  |   |   |
+| 11  | 17 gennaio 2024  |  |   |
+| 12  | 24 gennaio 2024  |   |    |
+| 13 | 31 gennaio 2024  |   |   |
+| 14 |   |  |    |
+| 15 |   |  |   |
+| 16 |   |   |  |
+| 17 |  |  | | 
