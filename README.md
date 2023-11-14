@@ -6,8 +6,8 @@ Thanks to @rinziv for the slides
 | #  | Data | Argomento | Materiale |
 | -- | ---- | --------- | --------- |
 | 1  | 25 ottobre 2023  | Introduzione al corso  | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/01_intro.pdf) |
-| 2  | 8 novembre 2023  | JS: tipi di dati e variabili  | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/02_javascript.pdf) |
-| 3  | 9 novembre 2023  |   |   |
+| 2  | 31 ottobre 2023  | JS: tipi di dati e variabili  | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/02_javascript.pdf) |
+| 3  | 9 novembre 2023  | Introduzione alla logica classica e istruzioni condizionali  | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/03_logica_if.pdf)  |
 | 4  | 15 novembre 2023  |  |   |
 | 5  | 22 novembre 2023  |  |   |
 | 6  | 29 novembre 2023  |  |   |
