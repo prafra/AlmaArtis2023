@@ -1,0 +1,16 @@
+1) Scrivere un programma che inizializzi due variabili x ed y (assegnando valori a piacere) e visualizzi il risultato
+dell’operazione x y .
+
+2) Scrivere un programma che inizializzi una variabile x con un valore numerico a piacere e, interpretandolo come
+l’area di un cerchio, visualizzi l’area del cerchio il cui diametro è il doppio di quello iniziale. Suggerimento: si calcoli
+prima il raggio del cerchio con area data da x, poi si prosegua con il ragionamento. La radice si fa con Math.sqrt()
+
+3) Scrivere un programma che inizializzi due variabili N ed M con valori numerici scelti a piacere. Il programma deve
+successivamente calcolare e visualizzare:
+- se N è minore o uguale di M
+- se N è compreso tra 0 ed M
+- se N è divisibile per M
+- in tutti e quattro i casi, prevedere una stampa informativa opportuna
+
+4) Scrivere un programma che calcoli il massimo e il minimo tra due variabili N ed M, usando due metodi
+risolutivi diversi
