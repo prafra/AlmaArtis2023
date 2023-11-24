@@ -9,7 +9,7 @@ Thanks to @rinziv for the slides
 | 2  | 31 ottobre 2023  | JS: tipi di dati e variabili  | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/02_javascript.pdf) |
 | 3  | 9 novembre 2023  | Introduzione alla logica classica e istruzioni condizionali  | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/03_logica_if.pdf)  |
 | 4  | 15 novembre 2023  | JS: funzioni | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/04_funzioni_new.pdf)  |
-| 5  | 22 novembre 2023  | JS: switch | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/05_esercizi_switch.pdf)  |
+| 5  | 22 novembre 2023  | JS: switch (con soluzioni) | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/05_esercizi_switch_new.pdf)  |
 | 6  | 29 novembre 2023  |  |   |
 | 7  | 6 dicembre 2023  |   |   |
 | 8  | 13 dicembre 2023  |   |  |
