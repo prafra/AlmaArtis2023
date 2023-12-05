@@ -10,8 +10,8 @@ Thanks to @rinziv for the slides
 | 3  | 9 novembre 2023  | Introduzione alla logica classica e istruzioni condizionali  | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/03_logica_if.pdf)  |
 | 4  | 15 novembre 2023  | JS: funzioni | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/04_funzioni_new.pdf)  |
 | 5  | 22 novembre 2023  | JS: switch (con soluzioni) | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/05_esercizi_switch_new.pdf)  |
-| 6  | 29 novembre 2023  | esercizi e stato di un programma | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/06_ambienti_stato.pdf)  |
-| 7  | 6 dicembre 2023  |   |   |
+| 6  | 29 novembre 2023  | Esercizi e stato di un programma (reprise) | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/06_ambienti_stato.pdf)  |
+| 7  | 6 dicembre 2023  | Esercizi  |   [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/07_esercizi.pdf) |
 | 8  | 13 dicembre 2023  |   |  |
 | 9  | 20 dicembre 2023  |   |  |
 | 10  | 10 gennaio 2024  |   |   |
