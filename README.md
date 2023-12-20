@@ -13,7 +13,7 @@ Thanks to @rinziv for the slides
 | 6  | 29 novembre 2023  | Esercizi e stato di un programma (reprise) | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/06_ambienti_stato.pdf)  |
 | 7  | 6 dicembre 2023  | Esercizi  |   [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/07_esercizi.pdf) |
 | 8  | 13 dicembre 2023  | JS: istruzioni iterative  |  [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/08_iterazioni.pdf) |
-| 9  | 20 dicembre 2023  |   |  |
+| 9  | 20 dicembre 2023  | Esercizi  |  [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/09_esercizi.pdf) |
 | 10  | 10 gennaio 2024  |   |   |
 | 11  | 17 gennaio 2024  |  |   |
 | 12  | 24 gennaio 2024  |   |    |
