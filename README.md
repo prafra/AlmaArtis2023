@@ -17,7 +17,7 @@ Thanks to @rinziv for the slides
 | 10  | 10 gennaio 2024  |  JS: istruzioni iterative (while)  |  [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/10_javascript_while_new.pdf) |
 | 11  | 17 gennaio 2024  |  Esercizi  |  [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/11_javascript_esercizi.pdf)   |
 | 12  | 24 gennaio 2024  | JS: ricorsione  |  [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/12_ricorsione.pdf)  |
-| 13 | 31 gennaio 2024  |   |   |
+| 13 | 31 gennaio 2024  |  Esercizi  |  [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/13_esercizi_ricorsione.pdf)   |
 | 14 |   |  |    |
 | 15 |   |  |   |
 | 16 |   |   |  |
