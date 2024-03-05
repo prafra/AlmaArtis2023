@@ -18,7 +18,16 @@ Thanks to @rinziv for the slides
 | 11  | 17 gennaio 2024  |  Esercizi  |  [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/11_javascript_esercizi.pdf)   |
 | 12  | 24 gennaio 2024  | JS: ricorsione  |  [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/12_ricorsione.pdf)  |
 | 13 | 31 gennaio 2024  |  Esercizi  |  [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/13_esercizi_ricorsione.pdf)   |
-| 14 |   |  |    |
-| 15 |   |  |   |
-| 16 |   |   |  |
-| 17 |  |  | | 
+| 14 | 5 marzo 2024  | Esercizi |   [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/14_javascript_esercizi.pdf)  |
+| 15 | 12 marzo 2024  |  |   |
+| 16 | 13 marzo 2024  |   |  |
+| 17 | 19 marzo 2024 |  | | 
+| 18 | 27 marzo 2024 |  | | 
+| 19 | 2 aprile 2024 |  | | 
+| 20 | 3 aprile 2024 |  | | 
+| 21 | 16 aprile 2024 |  | | 
+| 22 | 17 aprile 2024 |  | | 
+| 23 | 23 aprile 2024  |  | | 
+| 24 | 30 aprile 2024 |  | |
+| 25 | 7 maggio 2024 |  | | 
+| 26 | 8 maggio 2024 |  | |
