@@ -19,9 +19,9 @@ Thanks to @rinziv for the slides
 | 12  | 24 gennaio 2024  | JS: ricorsione  |  [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/12_ricorsione.pdf)  |
 | 13 | 31 gennaio 2024  |  Esercizi  |  [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/13_esercizi_ricorsione.pdf)   |
 | 14 | 5 marzo 2024  | Esercizi |   [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/14_javascript_esercizi.pdf)  |
-| 15 | 12 marzo 2024  | Array |  [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/15_javascript_array.pdf)   |
+| 15 | 12 marzo 2024  | Array  |  [slides (new)](https://github.com/prafra/AlmaArtis2023/blob/main/slides/15_javascript_array_new.pdf)   |
 | 16 | 13 marzo 2024  | Esercizi  | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/16_javascript_esercizi.pdf)    |
-| 17 | 19 marzo 2024 | TODO: 1) cambiare n con b nel II esercizio; 2) slide 14 e seguenti: new Array (6); 3) slide 35 + 37: vet.length-1 | | 
+| 17 | 19 marzo 2024 | Array - Addendum | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/17_javascript_array_add.pdf) | 
 | 18 | 27 marzo 2024 |  | | 
 | 19 | 2 aprile 2024 |  | | 
 | 20 | 3 aprile 2024 |  | | 
