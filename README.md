@@ -22,7 +22,7 @@ Thanks to @rinziv for the slides
 | 15 | 12 marzo 2024  | JS: Array  |  [slides (new)](https://github.com/prafra/AlmaArtis2023/blob/main/slides/15_javascript_array_new.pdf)   |
 | 16 | 13 marzo 2024  | JS: Esercizi  | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/16_javascript_esercizi.pdf)    |
 | 17 | 19 marzo 2024 | JS: Array - Addendum | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/17_javascript_array_add.pdf) | 
-| 18 | 27 marzo 2024 | HTML | | 
+| 18 | 27 marzo 2024 | HTML: elementi base di un sito web |  [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/18_website.pdf) | 
 | 19 | 2 aprile 2024 | HTML | | 
 | 20 | 3 aprile 2024 | Colori | | 
 | 21 | 16 aprile 2024 | Processing: Primitive di base, colori | | 
