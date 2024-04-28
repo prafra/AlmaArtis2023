@@ -28,6 +28,6 @@ Thanks to @rinziv for the slides
 | 21 | 16 aprile 2024 | Processing: Primitive di base, colori | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/21_processing.pdf)  | 
 | 22 | 17 aprile 2024 | Processing: Interazione, eventi e variabili | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/22_processing_variabili.pdf)  | 
 | 23 | 23 aprile 2024  | Processing: Valori random, if e loop | [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/23_processing_if_loop.pdf)  | 
-| 24 | 30 aprile 2024 | Processing: Esercitazione | |
+| 24 | 30 aprile 2024 | Processing: Esercitazione |  [slides](https://github.com/prafra/AlmaArtis2023/blob/main/slides/24_processing_esercizi.pdf)  |
 | 25 | 7 maggio 2024 | Processing: Oggetti | | 
 | 26 | 8 maggio 2024 | Processing: Funzioni avanzate | |
